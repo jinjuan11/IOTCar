@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: mybluemix.net
+  domain: stage1.mybluemix.net
   name: Jane's car
-  host: jane-car.stage1
+  host: jane-car
   disk_quota: 1024M
